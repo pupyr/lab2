@@ -1,0 +1,18 @@
+header{
+    position: fixed;
+    background-color: darkgray;
+    font-family: sans, serif;
+    color: #0065f5;
+    text-shadow: #00009d 1px 1px;
+    font-size: large;
+}
+.mid{
+    alignment: center;
+}
+
+body {
+    text-align: center;
+    position: center;
+    margin: 30px 0 300px 0;
+    line-height: 70px;
+}
